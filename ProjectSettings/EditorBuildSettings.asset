@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Static Audio Test/1 - Audio Clip.unity
+    guid: 12667796d31e147f4a97dd53fa8d085a
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ca008518b8cce40198724d48e7906493, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3f6d29a7a6b874d6f8cab7798eb4bc0e, type: 2}
